@@ -3,8 +3,7 @@ Personal project aimed at generating a map of all public transport in the state 
 
 ## This project uses these Python libraries:
 pipenv for dependency management (https://robots.thoughtbot.com/how-to-manage-your-python-projects-with-pipenv)
-numpy 
-matplotlib
+numpy and matplotlib
 
 ## Data source
 All data is sourced from https://transitfeeds.com/p/ptv/497
