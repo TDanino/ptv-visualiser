@@ -1,0 +1,18 @@
+
+Choose at least one:
+ -b	Plots bus data  
+ -lr	Plots tram data
+ -t	Plots train data
+
+Options:
+ -sr	Shortens data plotting to a fixed number of routes
+
+ -ne	Turns off exporting
+ -nl	Turns off labels
+
+ -prog	Prints progress updates to the console.
+ -v	Opens interactive visualisation after plotting
+
+
+ --help Print this guide
+  
